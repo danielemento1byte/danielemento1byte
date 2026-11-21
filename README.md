@@ -2,8 +2,8 @@
 
 <img src="./assets/danielement-retro-banner.png" alt="DaniElement Retro AI Lab — pixel-art retro computer and AI research terminal" width="100%" />
 
-### Daniel Lázaro / `DaniElemento` · `@danielemento1byte`
-**Industrial Engineering student · National University of Engineering (UNI), Peru 🇵🇪**
+### Daniel Lazaro / `Danielemento` · `@danielemento1byte`
+**Industrial Engineering student · Universidad Nacional de Ingenieria (UNI), Peru 🇵🇪**
 
 `aspiring AI researcher` · `creative coding` · `learning in public`
 
@@ -17,7 +17,7 @@
 
 ```console
 ╭─ daniel@1byte:~/about
-│ NAME       Daniel Lázaro  //  DaniElemento
+│ NAME       Daniel Lazaro  //  Danielemento
 │ BACKGROUND Industrial Engineering @ UNI, Peru
 │ FOCUS      AI research · software + hardware · creative experiments
 │ STATUS     curious / learning / building
@@ -101,7 +101,7 @@ My long-term ambition is to pursue graduate research and contribute to **frontie
 <details>
 <summary><b>🇵🇪 Leer en español / About me in Spanish</b></summary>
 
-¡Hola! Soy **Daniel Lázaro (DaniElemento / @danielemento1byte)**, estudiante de **Ingeniería Industrial en la Universidad Nacional de Ingeniería (UNI), Perú**.
+¡Hola! Soy **Daniel Lázaro (Danielemento / @danielemento1byte)**, estudiante de **Ingeniería Industrial en la Universidad Nacional de Ingeniería (UNI), Perú**.
 
 Me encanta investigar cómo los sistemas inteligentes aprenden, perciben e interactúan con su entorno. Mis intereses incluyen visión artificial, aprendizaje profundo, aprendizaje por refuerzo, simulación 3D, NeuroAI, ciencia de datos y automatización.
 
